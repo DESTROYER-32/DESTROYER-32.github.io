@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: destroyer-32.github.io
+Token: bc1bdd093c5345d6d0e7d65811c28982180d5b4f32fe9367616b7c436a8bb096
